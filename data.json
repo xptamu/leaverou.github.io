@@ -6,6 +6,37 @@
 					"title": "TBD",
 					"type": "Talk"
 				}
+			]
+		},
+		{
+			"talk": [
+				{
+					"title": "The Newest Workshop Event",
+					"type": "Workshop"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"name": "Web Vision's Events",
+			"city": "Houston",
+			"country": "us"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
 			],
 			"url": "https://www.webdirections.org/code/",
 			"name": "Web Directions Code",
